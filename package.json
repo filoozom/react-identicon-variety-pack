@@ -22,7 +22,7 @@
     "webpack-cli": "^3.3.6"
   },
   "files": [
-    "/lib/*"
+    "/lib/**"
   ],
   "scripts": {
     "start": "react-scripts start",
